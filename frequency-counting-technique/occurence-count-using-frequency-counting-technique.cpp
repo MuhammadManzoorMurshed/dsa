@@ -13,7 +13,7 @@ int main()
         freq[x]++;
     }
 
-    for(int i = 0; i < max_value; i++)
+    for(int i = 0; i <= max_value; i++)
     {
         if(freq[i] > 0)
         {
