@@ -1,6 +1,6 @@
 # DSA Journey
 
-A personal repository to practice and document my learning of Data Structures and Algorithms.
+A personal repository to practice and document my learning of Data Structures, Algorithms and various DSA techniques.
 
 ## What's Inside
 
